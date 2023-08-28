@@ -17,7 +17,6 @@ This repository contain dataset description and links to dataset used in paper Â
   - [Additional Information](#additional-information)
     - [Dataset Curators](#dataset-curators)
     - [Citation Information](#citation-information)
-    - [Contributions](#contributions)
   - [Download Links](#download-links)
   - [Contact](#contact)
 
@@ -94,7 +93,6 @@ When utilizing this dataset, kindly acknowledge its contribution through the fol
 }
 ```
 
-### Contributions
 
 ## Download Links
 
