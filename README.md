@@ -57,7 +57,7 @@ Explore the dataset's patent-related insights through meticulously curated data 
 - `title_en`:  Title of the patent in English
 - `priorities`: Priority date marking patent inception
 - `publication_date`: Date of patent publication
-- `abstract_en`: Abstract describing the patent
+- `abstract_en`: Abstract describing the patent in English
 - `ci_cpci`: Cooperative Patent Classification and Cooperative Patent Central Index codes
 - `ipc_icai`: International Patent Classification and International Classification of Alliances and Interests codes
 - `patent_number`: Patent number
