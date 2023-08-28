@@ -1,5 +1,5 @@
 # How to measure inventive speed? A new patent activity assessment dimension. Dataset
-This repository contain dataset description and links to dataset used in paper «How to measure inventive speed? A new patent activity assessment dimension»
+This repository comprises the dataset description and links to the dataset utilized in the research paper titled "How to measure inventive speed? A new patent activity assessment dimension."
 
 ## Table of Contents
 - [Dataset Card Creation Guide](#dataset-card-creation-guide)
