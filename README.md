@@ -24,7 +24,7 @@ This repository contain dataset description and links to dataset used in paper Â
 
 ### Dataset Summary
 
-This dataset comprises over 64,000 JSON-formatted bibliography entries, instrumental in the research presented in "How to measure inventive speed? A new patent activity assessment dimension." The dataset is designed to facilitate patent analysis and innovation performance evaluation through comprehensive patent-related metadata.
+This dataset contains approximately 64,000 JSON-formatted bibliography data entries used in the final computations of the paper titled "How to measure inventive speed? A new patent activity assessment dimension." The dataset includes information about patents and their associated metadata.
 
 ### Languages
 
@@ -54,15 +54,15 @@ An illustrative instance from the dataset is as follows:
 
 Explore the dataset's patent-related insights through meticulously curated data fields:
 
-- `title_en`: Patent title encapsulating its essence
+- `title_en`:  Title of the patent in English
 - `priorities`: Priority date marking patent inception
 - `publication_date`: Date of patent publication
-- `abstract_en`: Succinct abstract offering innovation glimpses
+- `abstract_en`: Abstract describing the patent
 - `ci_cpci`: Cooperative Patent Classification and Cooperative Patent Central Index codes
 - `ipc_icai`: International Patent Classification and International Classification of Alliances and Interests codes
-- `patent_number`: Distinctive patent number
-- `applicants`: Visionaries behind the patent, the applicants
-- `inventors`: Innovative minds that birthed the patent's brilliance
+- `patent_number`: Patent number
+- `applicants`: Applicants of the patent
+- `inventors`: Inventors of the patent
 
 ## Dataset Creation
 
