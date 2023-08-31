@@ -98,8 +98,8 @@ When utilizing this dataset, kindly acknowledge its contribution through the fol
 
 Access the dataset through the following download links:
 
-- [Google Drive](URL_PLACEHOLDER_1)
-- [Dropbox](URL_PLACEHOLDER_2)
+- [Google Drive](https://drive.google.com/file/d/1CgSrmwREOph1dbifWSRcE-geK48BO5_N/view?usp=sharing)
+- [Dropbox](https://www.dropbox.com/scl/fi/ttw55b149ezahdu441jun/experimental_data.7z?rlkey=tn1x37jilaa1zcd32d69smx5n&dl=0)
 
 ## Contact
 If you have any questions or inquiries related to the dataset, please don't hesitate to contact Nikita.Paplavsky@skoltech.ru .
